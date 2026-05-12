@@ -18,7 +18,7 @@ function App() {
         <div>
           <h1>Dharshini</h1>
           <p>
-          <code>CI CD</code>
+          <code>CI/CD</code>
           </p>
         </div>
 
